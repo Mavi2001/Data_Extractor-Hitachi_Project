@@ -1,0 +1,512 @@
+ mlkHotSby MISMATCH_C1 C3C4_MHUE MEHRAWAL
+ mlkHotSby MISMATCH_C2 C3C4_MHUE MEHRAWAL
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ mlkHotSby A1_ON C3C4_MHUE MEHRAWAL
+ mlkHotSby B1_ON C3C4_MHUE MEHRAWAL
+ mlkHotSby A1_OFF C3C4_MHUE MEHRAWAL
+ mlkHotSby B1_OFF C3C4_MHUE MEHRAWAL
+ mlkHotSby A2_ON C3C4_MHUE MEHRAWAL
+ mlkHotSby B2_ON C3C4_MHUE MEHRAWAL
+ mlkHotSby A2_OFF C3C4_MHUE MEHRAWAL
+ mlkHotSby B2_OFF C3C4_MHUE MEHRAWAL
+ sc sc sc
+ sc sc sc
+ signalRoute EUYNACK 1/C1 MEHRAWAL
+ signalRoute EUYNACK 3/C3 MEHRAWAL
+ sc sc sc
+NO value found
+NO value found
+ sc sc sc
+NO value found
+ sc sc sc
+NO value found
+NO value found
+ sc sc sc
+ signalRoute EUYNACK 10/110 MEHRAWAL
+ signalRoute EUYNACK 112 MEHRAWAL
+ sc sc sc
+ sc sc sc
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+ sc sc sc
+ sc sc sc
+ sc sc sc
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ swpoint EWNACK 203 MEHRAWAL
+ swpoint EWNACK 205 MEHRAWAL
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+ swpoint EWRACK 203 MEHRAWAL
+ swpoint EWRACK 205 MEHRAWAL
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+ sc sc sc
+ sc sc sc
+NO value found
+ signalRoute UBHACK 1/C1 MEHRAWAL
+ signalRoute UBHACK 3/C3 MEHRAWAL
+ sc sc sc
+NO value found
+NO value found
+ sc sc sc
+NO value found
+ sc sc sc
+NO value found
+NO value found
+ signalRoute UBHACK 10/110 MEHRAWAL
+ signalRoute UBHACK 112 MEHRAWAL
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+ swpointBlock UBHACK 203 MEHRAWAL
+ swpointBlock UBHACK 205 MEHRAWAL
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+ sc sc sc
+ track TUBHACK 1T MEHRAWAL
+ sc sc sc
+ sc sc sc
+ sc sc sc
+NO value found
+ sc sc sc
+NO value found
+NO value found
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ track TUBHACK 3T MEHRAWAL
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+NO value found
+ sc sc sc
+ sc sc sc
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+ track TUBHACK 202AT MEHRAWAL
+ track TUBHACK 203AT MEHRAWAL
+ track TUBHACK 203BT MEHRAWAL
+ sc sc sc
+NO value found
+NO value found
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+NO value found
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+NO value found
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ mainSignal DGKE 1 MEHRAWAL
+ mainSignal HHGKE 1 MEHRAWAL
+ mainSignal HGKE 1 MEHRAWAL
+ mainSignal RGKE 1 MEHRAWAL
+ callSignal HGKE C1 MEHRAWAL
+ mainSignal DGKE 3 MEHRAWAL
+ mainSignal HHGKE 3 MEHRAWAL
+ mainSignal HGKE 3 MEHRAWAL
+ mainSignal RGKE 3 MEHRAWAL
+ routeIndicator UGKE RI13 MEHRAWAL
+ callSignal HGKE C3 MEHRAWAL
+ autoMode AMGKE 3/C3 MEHRAWAL
+NO value found
+ sc sc sc
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+ mainSignal DGKE 13 MEHRAWAL
+ mainSignal HHGKE 13 MEHRAWAL
+ mainSignal HGKE 13 MEHRAWAL
+ mainSignal RGKE 13 MEHRAWAL
+ autoMode AMGKE 13 MEHRAWAL
+NO value found
+ sc sc sc
+ sc sc sc
+NO value found
+NO value found
+NO value found
+ mainSignal HGKE 15 MEHRAWAL
+ mainSignal RGKE 15 MEHRAWAL
+ sc sc sc
+ sc sc sc
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+ sc sc sc
+ shuntSignal OFFGKE 110 MEHRAWAL
+ sc sc sc
+ shuntSignal OFFGKE 112 MEHRAWAL
+ shuntSignal ONGKE 112 MEHRAWAL
+ shuntSignal OFFGKE 113 MEHRAWAL
+ shuntSignal OFFGKE 115 MEHRAWAL
+NO value found
+ sc sc sc
+NO value found
+NO value found
+ sc sc sc
+NO value found
+ sc sc sc
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+ sc sc sc
+ autoMode AMLRKE 3/C3 MEHRAWAL
+ autoMode AMLRKE 13 MEHRAWAL
+NO value found
+ signalRoute GLKE 1/C1 MEHRAWAL
+ signalRoute GLKE 3/C3 MEHRAWAL
+ sc sc sc
+NO value found
+NO value found
+ sc sc sc
+NO value found
+ sc sc sc
+NO value found
+NO value found
+ signalRoute GLKE 10/110 MEHRAWAL
+ signalRoute GLKE 112 MEHRAWAL
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+ sc sc sc
+ sc sc sc
+ sc sc sc
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+ swpoint WLKE 203 MEHRAWAL
+ swpoint WLKE 205 MEHRAWAL
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+ swpoint NWKE 203 MEHRAWAL
+ swpoint NWKE 205 MEHRAWAL
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+ swpoint RWKE 203 MEHRAWAL
+ swpoint RWKE 205 MEHRAWAL
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+ crankHandleKey NKE CH2  MEHRAWAL
+ crankHandleKey NKE CH3  MEHRAWAL
+ crankHandleKey NKE CH9 MEHRAWAL
+ sc sc sc
+ sc sc sc
+NO value found
+ crankHandleKey RKE CH2  MEHRAWAL
+ crankHandleKey RKE CH3  MEHRAWAL
+ crankHandleKey RKE CH9  MEHRAWAL
+ sc sc sc
+ sc sc sc
+ sc sc sc
+NO value found
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ signalRoute BHKE 1/C1 MEHRAWAL
+ signalRoute BHKE 3/C3 MEHRAWAL
+ sc sc sc
+NO value found
+NO value found
+ sc sc sc
+NO value found
+ sc sc sc
+NO value found
+NO value found
+NO value found
+ signalRoute BHKE 10/110 MEHRAWAL
+ signalRoute BHKE 112 MEHRAWAL
+ sc sc sc
+NO value found
+NO value found
+NO value found
+NO value found
+ signalRoute UBHKE 1/C1 MEHRAWAL
+ signalRoute UBHKE 3/C3 MEHRAWAL
+ sc sc sc
+NO value found
+NO value found
+ sc sc sc
+NO value found
+ sc sc sc
+NO value found
+NO value found
+ signalRoute UBHKE 10/110 MEHRAWAL
+ signalRoute UBHKE 112 MEHRAWAL
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+ swpointBlock BHKE 203 MEHRAWAL
+ swpointBlock BHKE 205 MEHRAWAL
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+ swpointBlock UBHKE 203 MEHRAWAL
+ swpointBlock UBHKE 205 MEHRAWAL
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+ sc sc sc
+ track TBHKE 1T MEHRAWAL
+ sc sc sc
+ sc sc sc
+ track TBHKE 202AT MEHRAWAL
+ sc sc sc
+NO value found
+ sc sc sc
+NO value found
+NO value found
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ track TBHKE 3T MEHRAWAL
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+NO value found
+ sc sc sc
+ sc sc sc
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+ track TBHKE 203AT MEHRAWAL
+ track TBHKE 203BT MEHRAWAL
+ sc sc sc
+NO value found
+NO value found
+NO value found
+ sc sc sc
+ track TUBHKE 1T MEHRAWAL
+ sc sc sc
+ sc sc sc
+ sc sc sc
+NO value found
+ sc sc sc
+NO value found
+NO value found
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ track TUBHKE 3T MEHRAWAL
+ sc sc sc
+ sc sc sc
+ sc sc sc
+ sc sc sc
+NO value found
+ sc sc sc
+ sc sc sc
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+ track TUBHKE 202AT MEHRAWAL
+ track TUBHKE 203AT MEHRAWAL
+ track TUBHKE 203BT MEHRAWAL
+ sc sc sc
+NO value found
+NO value found
+ track TKE 1T MEHRAWAL
+ lineTrack TKE C1T ALJN_MWUE
+ sc sc sc
+ sc sc sc
+NO value found
