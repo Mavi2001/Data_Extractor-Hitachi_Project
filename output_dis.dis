@@ -1,0 +1,201 @@
+ scorta    *       *       30 1
+ scorta    *       *       30 1
+ signalRoute BH      1/C1     30 1 MEHRAWAL
+ signalRoute EGRN    1/C1    30 1 MEHRAWAL
+ signalRoute EUUYN   1/C1    30 1 MEHRAWAL
+ signalRoute EUYN1   1/C1    30 1 MEHRAWAL
+ signalRoute EUYN2   1/C1     30 1 MEHRAWAL
+ signalRoute UBH1    1/C1    30 1 MEHRAWAL
+ signalRoute UBH2    1/C1     30 1 MEHRAWAL
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+ signalRoute BH      15/115   30 1 MEHRAWAL
+ signalRoute EGRN    15/115  30 1 MEHRAWAL
+ signalRoute EUUYN   15/115    30 1 MEHRAWAL
+ signalRoute EUYN1   15/115    30 1 MEHRAWAL
+ signalRoute EUYN2   15/115     30 1 MEHRAWAL
+ signalRoute UBH1    15/115     30 1 MEHRAWAL
+ signalRoute UBH2    15/115     30 1 MEHRAWAL
+ route     JK      RT_15_19 30 1 route     BJK2    RT_15_19 30 1 MEHRAWAL
+ signalRoute BH      17/117   30 1 MEHRAWAL
+ signalRoute EGRN    17/117  30 1 MEHRAWAL
+ signalRoute EUUYN   17/117    30 1 MEHRAWAL
+ signalRoute EUYN1   17/117    30 1 MEHRAWAL
+ signalRoute EUYN2   17/117     30 1 MEHRAWAL
+ signalRoute UBH1    17/117     30 1 MEHRAWAL
+ signalRoute UBH2    17/117     30 1 MEHRAWAL
+NO value found
+NO value found
+NO value found
+ autoMode  AMEGRN  17/117       30 1 MEHRAWAL
+ autoMode  AMJK    17/117       30 1 MEHRAWAL
+NO value found
+NO value found
+NO value found
+ route     JK      RT_17_19 30 1 route     BJK2    RT_17_19 30 1 MEHRAWAL
+ signalRoute BH      196    30 1 MEHRAWAL
+ signalRoute EGRN    196     30 1 MEHRAWAL
+ signalRoute EUUYN   196     30 1 MEHRAWAL
+ signalRoute EUYN1   196   30 1 MEHRAWAL
+ signalRoute EUYN2   196     30 1 MEHRAWAL
+ signalRoute UBH1    196     30 1 MEHRAWAL
+ signalRoute UBH2    196     30 1 MEHRAWAL
+NO value found
+ signalRoute BH      198    30 1 MEHRAWAL
+ route     sJK     RT_198_4/104 30 1 MEHRAWAL
+NO value found
+NO value found
+ signalRoute EGRN    198     30 1 MEHRAWAL
+ signalRoute EUUYN   198     30 1 MEHRAWAL
+ signalRoute EUYN1   198   30 1 MEHRAWAL
+ signalRoute EUYN2   198     30 1 MEHRAWAL
+ route     sJK     RT_198_112 30 1 MEHRAWAL
+NO value found
+ signalRoute UBH1    198     30 1 MEHRAWAL
+ signalRoute UBH2    198     30 1 MEHRAWAL
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+ autoMode  AMEGRN  19       30 1 MEHRAWAL
+ autoMode  AMJK    19    30 1 MEHRAWAL
+ signalRoute BH      19       30 1 MEHRAWAL
+ signalRoute EGRN    19      30 1 MEHRAWAL
+ track     TBH     19T     30 1 MEHRAWAL
+ track     TUBH1   19T        30 1 MEHRAWAL
+ track     TUBH2   19T        30 1 MEHRAWAL
+ signalRoute UBH1    19     30 1 MEHRAWAL
+ signalRoute UBH2    19     30 1 MEHRAWAL
+ route     JK      RT_19_A501 30 1 route     BJK2    RT_19_A501 30 1 MEHRAWAL
+ autoMode  AMEGRN  1/C1       30 1 MEHRAWAL
+ autoMode  AMJK    1/C1    30 1 MEHRAWAL
+ track     TBH     1T      30 1 MEHRAWAL
+ track     TUBH1   1T         30 1 MEHRAWAL
+ track     TUBH2   1T         30 1 MEHRAWAL
+ route     JK      RT_1/C1_17/117 30 1 route     BJK2    RT_1/C1_17/117 30 1 MEHRAWAL
+NO value found
+NO value found
+NO value found
+ track     TBH     203AT     30 1 MEHRAWAL
+ track     TUBH1   203AT      30 1 MEHRAWAL
+ track     TUBH2   203AT      30 1 MEHRAWAL
+ swpointBlock BH      203     30 1 MEHRAWAL
+ track     TBH     203BT     30 1 MEHRAWAL
+ track     TUBH1   203BT      30 1 MEHRAWAL
+ track     TUBH2   203BT      30 1 MEHRAWAL
+ swpoint   EWN1    203      0 1 swpoint   EWN2    203      0 0 swpoint   EWR1    203      0 0 swpoint
+ swpoint   EWN2    203      0 1 swpoint   EWN1    203      0 0 swpoint   EWR1    203      0 0 swpoint
+ swpoint   EWR1    203      0 1 swpoint   EWN1    203      0 0 swpoint   EWN2    203      0 0 swpoint
+ swpoint   EWR2    203      0 1 swpoint   EWN1    203      0 0 swpoint   EWN2    203      0 0 swpoint
+ swpointBlock UBH1    203     30 1 MEHRAWAL
+ swpointBlock UBH2    203     30 1 MEHRAWAL
+ swpoint   WC      203      0 1 swpoint   WR      203      0 0 swpoint   WN      203      0 0 swpoint
+ swpoint   WN      203      0 1 swpoint   WR      203      0 0 swpoint   WC      203      0 0 MEHRAWA
+ swpoint   WR      203      0 1 swpoint   WN      203      0 0 swpoint   WC      203      0 0 MEHRAWA
+ track     TBH     204AT     30 1 MEHRAWAL
+ track     TUBH1   204AT      30 1 MEHRAWAL
+ track     TUBH2   204AT      30 1 MEHRAWAL
+ swpointBlock BH      204     30 1 MEHRAWAL
+ swpoint   EWN1    204      0 1 swpoint   EWN2    204      0 0 swpoint   EWR1    204      0 0 swpoint
+ swpoint   EWN2    204      0 1 swpoint   EWN1    204      0 0 swpoint   EWR1    204      0 0 swpoint
+ swpoint   EWR1    204      0 1 swpoint   EWN1    204      0 0 swpoint   EWN2    204      0 0 swpoint
+ swpoint   EWR2    204      0 1 swpoint   EWN1    204      0 0 swpoint   EWN2    204      0 0 swpoint
+ swpointBlock UBH1    204     30 1 MEHRAWAL
+ swpointBlock UBH2    204     30 1 MEHRAWAL
+ swpoint   WC      204      0 1 swpoint   WR      204      0 0 swpoint   WN      204      0 0 swpoint
+ swpoint   WN      204      0 1 swpoint   WR      204      0 0 swpoint   WC      204      0 0 MEHRAWA
+ swpoint   WR      204      0 1 swpoint   WN      204      0 0 swpoint   WC      204      0 0 MEHRAWA
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+ track     TBH     297AT     30 1 MEHRAWAL
+ track     TUBH1   297AT      30 1 MEHRAWAL
+ track     TUBH2   297AT      30 1 MEHRAWAL
+ swpointBlock BH      297     30 1 MEHRAWAL
+ track     TBH     297BT     30 1 MEHRAWAL
+ track     TUBH1   297BT      30 1 MEHRAWAL
+ track     TUBH2   297BT      30 1 MEHRAWAL
+ swpoint   EWN1    297      0 1 swpoint   EWN2    297      0 0 swpoint   EWR1    297      0 0 swpoint   EWR2    297      0 0 MEHRAWAL
+ swpoint   EWN2    297      0 1 swpoint   EWN1    297      0 0 swpoint   EWR1    297      0 0 swpoint   EWR2    297      0 0 swpoint   WC      297      0 0 MEHRAWAL
+ swpoint   EWR1    297      0 1 swpoint   EWN1    297      0 0 swpoint   EWN2    297      0 0 swpoint   EWR2    297      0 0 MEHRAWAL
+ swpoint   EWR2    297      0 1 swpoint   EWN1    297      0 0 swpoint   EWN2    297      0 0 swpoint   EWR1    297      0 0 swpoint   WC      297      0 0 MEHRAWAL
+ swpointBlock UBH1    297    30 1 MEHRAWAL
+ swpointBlock UBH2    297     30 1 MEHRAWAL
+ swpoint   WC      297      0 1 swpoint   WR      297      0 0 swpoint   WN      297      0 0 swpoint   EWN2    297      0 0 swpoint   EWR2    297      0 0 MEHRAWAL
+ swpoint   WN      297      0 1 swpoint   WR      297      0 0 swpoint   WC      297      0 0 MEHRAWAL
+ swpoint   WR      297      0 1 swpoint   WN      297      0 0 swpoint   WC      297      0 0 MEHRAWAL
+ track     TBH     299BT     30 1 MEHRAWAL
+ track     TUBH1   299BT      30 1 MEHRAWAL
+ track     TUBH2   299BT      30 1 MEHRAWAL
+ signalRoute BH      3/C3    30 1 MEHRAWAL
+ signalRoute EGRN    3/C3    30 1 MEHRAWAL
+ signalRoute EUUYN   3/C3    30 1 MEHRAWAL
+ signalRoute EUYN1   3/C3    30 1 MEHRAWAL
+ signalRoute EUYN2   3/C3     30 1 MEHRAWAL
+ signalRoute UBH1    3/C3     30 1 MEHRAWAL
+ signalRoute UBH2    3/C3     30 1 MEHRAWAL
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+ route     cJK     RT_C1_17/117 30 1 MEHRAWAL
+NO value found
+ scorta    *       *       30 1
+ scorta    *       *       30 1
+ scorta    *       *       30 1
+NO value found
+ crankHandleKey LOCK    CH3     30 1 MEHRAWAL
+ crankHandleKey REL     CH3     30 1 MEHRAWAL
+ crankHandleKey LOCK    CH4     30 1 MEHRAWAL
+ crankHandleKey REL     CH4     30 1 MEHRAWAL
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+NO value found
+ overlap   EYN1    OV15    30 1 MEHRAWAL
+ overlap   EYN2    OV15   30 1 MEHRAWAL
+ overlap   EYN1    OV17    30 1 MEHRAWAL
+ overlap   EYN2    OV17    30 1 MEHRAWAL
+ track     TBH     ULT     30 1 MEHRAWAL
+ track     TUBH1   ULT        30 1 MEHRAWAL
+ track     TUBH2   ULT        30 1 MEHRAWAL
+NO value found
+ track     TBH     UMT     30 1 MEHRAWAL
+ track     TUBH1   UMT        30 1 MEHRAWAL
+ track     TUBH2   UMT        30 1 MEHRAWAL
+NO value found
