@@ -1,0 +1,692 @@
+LCP_ONLINE scorta    *       *       30 1
+CTC_ONLINE scorta    *       *       30 1
+1UAJK route     JK      RT_1/C1_17/117 30 1 route     BJK2    RT_1/C1_17/117 30 1 MEHRAWAL
+17UXJK route     JK      RT_17_19 30 1 route     BJK2    RT_17_19 30 1 MEHRAWAL
+17B1XJK route     JK      RT_17_13 30 1 route     BJK2    RT_17_13 30 1 MEHRAWAL
+19UZJK route     JK      RT_19_A501 30 1 route     BJK2    RT_19_A501 30 1 MEHRAWAL
+20DAJK route     JK      RT_20_4/104 30 1 route     BJK2    RT_20_4/104 30 1 MEHRAWAL
+4DXJK route     JK      RT_4_2 30 1 route     BJK2    RT_4_2 30 1 MEHRAWAL
+4BXJK route     JK      RT_4_8 30 1 route     BJK2    RT_4_8 30 1 MEHRAWAL
+6DXJK route     JK      RT_6_2 30 1 route     BJK2    RT_6_2 30 1 MEHRAWAL
+6BXJK route     JK      RT_6_8 30 1 route     BJK2    RT_6_8 30 1 MEHRAWAL
+2DZJK route     JK      RT_2_A506 30 1 route     BJK2    RT_2_A506 30 1 MEHRAWAL
+20DB.202N.JK route     JK      RT_20_6/106_202N 30 1 route     BJK2    RT_20_6/106_202N 30 1 MEHRAWAL
+20DB.202R.JK route     JK      RT_20_6/106_202R 30 1 route     BJK2    RT_20_6/106_202R 30 1 MEHRAWAL
+C1UAJK route     cJK     RT_C1_17/117 30 1 MEHRAWAL
+C20DAJK route     cJK     RT_C20_4/104 30 1 MEHRAWAL
+C20DBJK route     cJK     RT_C20_6/106 30 1 MEHRAWAL
+115B1XJK route     sJK     RT_115_13 30 1 MEHRAWAL
+115SNJK route     sJK     RT_115_SN 30 1 MEHRAWAL
+115UXJK route     sJK     RT_115_19 30 1 MEHRAWAL
+104DXJK route     sJK     RT_104_2 30 1 MEHRAWAL
+104BXJK route     sJK     RT_104_8 30 1 MEHRAWAL
+106DXJK route     sJK     RT_106_2 30 1 MEHRAWAL
+106BXJK route     sJK     RT_106_8 30 1 MEHRAWAL
+1UB.297N.JK route     JK      RT_1_15/115_297N 30 1 route     BJK2    RT_1_15/115_297N 30 1 MEHRAWAL
+1UB.297R.JK route     JK      RT_1_15/115_297R 30 1 route     BJK2    RT_1_15/115_297R 30 1 MEHRAWAL
+117UXJK route     sJK     RT_117_19 30 1 MEHRAWAL
+117B1XJK route     sJK     RT_117_13 30 1 MEHRAWAL
+15B1XJK route     JK      RT_15_13 30 1 route     BJK2    RT_15_13 30 1 MEHRAWAL
+1.C1EGRN signalRoute EGRN    1/C1    30 1 MEHRAWAL
+2EGRN signalRoute EGRN  2   30 1 MEHRAWAL
+4.104EGRN signalRoute EGRN  4/104   30 1 MEHRAWAL
+6.106EGRN signalRoute EGRN  6/106   30 1 MEHRAWAL
+17.117EGRN signalRoute EGRN    17/117  30 1 MEHRAWAL
+19EGRN signalRoute EGRN    19      30 1 MEHRAWAL
+20.C20EGRN signalRoute EGRN  20/C20   30 1 MEHRAWAL
+15.115EGRN signalRoute EGRN    15/115  30 1 MEHRAWAL
+15.115EUUYN signalRoute EUUYN   15/115    30 1 MEHRAWAL
+15.115EUYN1 signalRoute EUYN1   15/115    30 1 MEHRAWAL
+15.115EUYN2 signalRoute EUYN2   15/115     30 1 MEHRAWAL
+15UXJK route     JK      RT_15_19 30 1 route     BJK2    RT_15_19 30 1 MEHRAWAL
+C1UBJK route     cJK     RT_C1_15/115 30 1 MEHRAWAL
+1.C1EUUYN signalRoute EUUYN   1/C1    30 1 MEHRAWAL
+4.104EUUYN signalRoute EUUYN   4/104    30 1 MEHRAWAL
+6.106EUUYN signalRoute EUUYN   6/106    30 1 MEHRAWAL
+17.117EUUYN signalRoute EUUYN   17/117    30 1 MEHRAWAL
+20.C20EUUYN signalRoute EUUYN   20/C20    30 1 MEHRAWAL
+15.115UBH1 signalRoute UBH1    15/115     30 1 MEHRAWAL
+15.115UBH2 signalRoute UBH2    15/115     30 1 MEHRAWAL
+15.115BH signalRoute BH      15/115   30 1 MEHRAWAL
+17ATBH track     TBH     17AT     30 1 MEHRAWAL
+17ATUBH1 track     TUBH1   17AT        30 1 MEHRAWAL
+17ATUBH2 track     TUBH2   17AT        30 1 MEHRAWAL
+1.C1EUYN1 signalRoute EUYN1   1/C1    30 1 MEHRAWAL
+1.C1EUYN2 signalRoute EUYN2   1/C1     30 1 MEHRAWAL
+4.104EUYN1 signalRoute EUYN1   4/104    30 1 MEHRAWAL
+4.104EUYN2 signalRoute EUYN2   4/104     30 1 MEHRAWAL
+6.106EUYN1 signalRoute EUYN1   6/106    30 1 MEHRAWAL
+6.106EUYN2 signalRoute EUYN2   6/106     30 1 MEHRAWAL
+17.117EUYN1 signalRoute EUYN1   17/117    30 1 MEHRAWAL
+17.117EUYN2 signalRoute EUYN2   17/117     30 1 MEHRAWAL
+20.C20EUYN1 signalRoute EUYN1   20/C20    30 1 MEHRAWAL
+20.C20EUYN2 signalRoute EUYN2   20/C20     30 1 MEHRAWAL
+201BH swpointBlock BH      201     30 1 MEHRAWAL
+201EWN1 swpoint   EWN1    201      0 1 swpoint   EWN2    201      0 0 swpoint   EWR1    201      0 0 swpoint
+201EWN2 swpoint   EWN2    201      0 1 swpoint   EWN1    201      0 0 swpoint   EWR1    201      0 0 swpoint
+201EWR1 swpoint   EWR1    201      0 1 swpoint   EWN1    201      0 0 swpoint   EWN2    201      0 0 swpoint
+201EWR2 swpoint   EWR2    201      0 1 swpoint   EWN1    201      0 0 swpoint   EWN2    201      0 0 swpoint
+201UBH1 swpointBlock UBH1    201     30 1 MEHRAWAL
+201UBH2 swpointBlock UBH2    201     30 1 MEHRAWAL
+201WC swpoint   WC      201      0 1 swpoint   WR      201      0 0 swpoint   WN      201      0 0 swpoint
+201WN swpoint   WN      201      0 1 swpoint   WR      201      0 0 swpoint   WC      201      0 0 MEHRAWAL
+201WR swpoint   WR      201      0 1 swpoint   WN      201      0 0 swpoint   WC      201      0 0 MEHRAWA
+CH1LOCK crankHandleKey LOCK    CH1     30 1 MEHRAWAL
+CH1REL crankHandleKey REL     CH1     30 1 MEHRAWAL
+CH2LOCK crankHandleKey LOCK    CH2     30 1 MEHRAWAL
+CH2REL crankHandleKey REL     CH2     30 1 MEHRAWAL
+CH5LOCK crankHandleKey LOCK    CH5     30 1 MEHRAWAL
+CH5REL crankHandleKey REL     CH5     30 1 MEHRAWAL
+CH6LOCK crankHandleKey LOCK    CH6     30 1 MEHRAWAL
+CH6REL crankHandleKey REL     CH6     30 1 MEHRAWAL
+1AMJK autoMode  AMJK    1/C1    30 1 MEHRAWAL
+2AMJK autoMode  AMJK    2    30 1 MEHRAWAL
+4AMJK autoMode  AMJK    4/104       30 1 MEHRAWAL
+17AMJK autoMode  AMJK    17/117       30 1 MEHRAWAL
+19AMJK autoMode  AMJK    19    30 1 MEHRAWAL
+20AMJK autoMode  AMJK    20/C20       30 1 MEHRAWAL
+1AMEGRN autoMode  AMEGRN  1/C1       30 1 MEHRAWAL
+2AMEGRN autoMode  AMEGRN  2   30 1 MEHRAWAL
+4AMEGRN autoMode  AMEGRN  4/104   30 1 MEHRAWAL
+17AMEGRN autoMode  AMEGRN  17/117       30 1 MEHRAWAL
+19AMEGRN autoMode  AMEGRN  19       30 1 MEHRAWAL
+20AMEGRN autoMode  AMEGRN  20/C20   30 1 MEHRAWAL
+1.C1BH signalRoute BH      1/C1     30 1 MEHRAWAL
+2BH signalRoute BH      2        30 1 MEHRAWAL
+4.104BH signalRoute BH      4/104    30 1 MEHRAWAL
+6.106BH signalRoute BH      6/106    30 1 MEHRAWAL
+17.117BH signalRoute BH      17/117   30 1 MEHRAWAL
+19BH signalRoute BH      19       30 1 MEHRAWAL
+20.C20BH signalRoute BH      20/C20   30 1 MEHRAWAL
+293TBH track     TBH     293T     30 1 MEHRAWAL
+293TUBH1 track     TUBH1   293T      30 1 MEHRAWAL
+293TUBH2 track     TUBH2   293T      30 1 MEHRAWAL
+295TBH track     TBH     295T     30 1 MEHRAWAL
+295TUBH1 track     TUBH1   295T       30 1 MEHRAWAL
+295TUBH2 track     TUBH2   295T       30 1 MEHRAWAL
+1.C1UBH1 signalRoute UBH1    1/C1    30 1 MEHRAWAL
+1.C1UBH2 signalRoute UBH2    1/C1     30 1 MEHRAWAL
+2UBH1 signalRoute UBH1    2        30 1 MEHRAWAL
+2UBH2 signalRoute UBH2    2        30 1 MEHRAWAL
+4.104UBH1 signalRoute UBH1    4/104     30 1 MEHRAWAL
+4.104UBH2 signalRoute UBH2    4/104     30 1 MEHRAWAL
+6.106UBH1 signalRoute UBH1    6/106     30 1 MEHRAWAL
+6.106UBH2 signalRoute UBH2    6/106     30 1 MEHRAWAL
+17.117UBH1 signalRoute UBH1    17/117     30 1 MEHRAWAL
+17.117UBH2 signalRoute UBH2    17/117     30 1 MEHRAWAL
+19UBH1 signalRoute UBH1    19     30 1 MEHRAWAL
+19UBH2 signalRoute UBH2    19     30 1 MEHRAWAL
+20.C20UBH1 signalRoute UBH1    20/C20     30 1 MEHRAWAL
+20.C20UBH2 signalRoute UBH2    20/C20     30 1 MEHRAWAL
+202BH swpointBlock BH      202     30 1 MEHRAWAL
+202EWN1 swpoint   EWN1    202      0 1 swpoint   EWN2    202      0 0 swpoint   EWR1    202      0 0 swpoint
+202EWN2 swpoint   EWN2    202      0 1 swpoint   EWN1    202      0 0 swpoint   EWR1    202      0 0 swpoint
+202EWR1 swpoint   EWR1    202      0 1 swpoint   EWN1    202      0 0 swpoint   EWN2    202      0 0 swpoint
+202EWR2 swpoint   EWR2    202      0 1 swpoint   EWN1    202      0 0 swpoint   EWN2    202      0 0 swpoint
+202UBH1 swpointBlock UBH1    202     30 1 MEHRAWAL
+202UBH2 swpointBlock UBH2    202     30 1 MEHRAWAL
+202WC swpoint   WC      202      0 1 swpoint   WR      202      0 0 swpoint   WN      202      0 0 swpoint
+202WN swpoint   WN      202      0 1 swpoint   WR      202      0 0 swpoint   WC      202      0 0 MEHRAWAL
+202WR swpoint   WR      202      0 1 swpoint   WN      202      0 0 swpoint   WC      202      0 0 MEHRAWA
+SPARE scorta    *       *       30 1
+204BH swpointBlock BH      204     30 1 MEHRAWAL
+205BH swpointBlock BH      205     30 1 MEHRAWAL
+203BH swpointBlock BH      203     30 1 MEHRAWAL
+204UBH1 swpointBlock UBH1    204     30 1 MEHRAWAL
+204UBH2 swpointBlock UBH2    204     30 1 MEHRAWAL
+205UBH1 swpointBlock UBH1    205     30 1 MEHRAWAL
+205UBH2 swpointBlock UBH2    205     30 1 MEHRAWAL
+203UBH1 swpointBlock UBH1    203     30 1 MEHRAWAL
+203UBH2 swpointBlock UBH2    203     30 1 MEHRAWAL
+204WN swpoint   WN      204      0 1 swpoint   WR      204      0 0 swpoint   WC      204      0 0 MEHRAWA
+205WN swpoint   WN      205      0 1 swpoint   WR      205      0 0 swpoint   WC      205      0 0 MEHRAWA
+203WN swpoint   WN      203      0 1 swpoint   WR      203      0 0 swpoint   WC      203      0 0 MEHRAWA
+204WC swpoint   WC      204      0 1 swpoint   WR      204      0 0 swpoint   WN      204      0 0 swpoint
+205WC swpoint   WC      205      0 1 swpoint   WR      205      0 0 swpoint   WN      205      0 0 swpoint
+203WC swpoint   WC      203      0 1 swpoint   WR      203      0 0 swpoint   WN      203      0 0 swpoint
+204WR swpoint   WR      204      0 1 swpoint   WN      204      0 0 swpoint   WC      204      0 0 MEHRAWA
+205WR swpoint   WR      205      0 1 swpoint   WN      205      0 0 swpoint   WC      205      0 0 MEHRAWA
+203WR swpoint   WR      203      0 1 swpoint   WN      203      0 0 swpoint   WC      203      0 0 MEHRAWA
+204EWN1 swpoint   EWN1    204      0 1 swpoint   EWN2    204      0 0 swpoint   EWR1    204      0 0 swpoint
+204EWN2 swpoint   EWN2    204      0 1 swpoint   EWN1    204      0 0 swpoint   EWR1    204      0 0 swpoint
+205EWN1 swpoint   EWN1    205      0 1 swpoint   EWN2    205      0 0 swpoint   EWR1    205      0 0 swpoint
+205EWN2 swpoint   EWN2    205      0 1 swpoint   EWN1    205      0 0 swpoint   EWR1    205      0 0 swpoint
+203EWN1 swpoint   EWN1    203      0 1 swpoint   EWN2    203      0 0 swpoint   EWR1    203      0 0 swpoint
+203EWN2 swpoint   EWN2    203      0 1 swpoint   EWN1    203      0 0 swpoint   EWR1    203      0 0 swpoint
+204EWR1 swpoint   EWR1    204      0 1 swpoint   EWN1    204      0 0 swpoint   EWN2    204      0 0 swpoint
+204EWR2 swpoint   EWR2    204      0 1 swpoint   EWN1    204      0 0 swpoint   EWN2    204      0 0 swpoint
+205EWR1 swpoint   EWR1    205      0 1 swpoint   EWN1    205      0 0 swpoint   EWN2    205      0 0 swpoint
+205EWR2 swpoint   EWR2    205      0 1 swpoint   EWN1    205      0 0 swpoint   EWN2    205      0 0 swpoint
+203EWR1 swpoint   EWR1    203      0 1 swpoint   EWN1    203      0 0 swpoint   EWN2    203      0 0 swpoint
+203EWR2 swpoint   EWR2    203      0 1 swpoint   EWN1    203      0 0 swpoint   EWN2    203      0 0 swpoint
+CH3REL crankHandleKey REL     CH3     30 1 MEHRAWAL
+CH4REL crankHandleKey REL     CH4     30 1 MEHRAWAL
+CH3LOCK crankHandleKey LOCK    CH3     30 1 MEHRAWAL
+CH4LOCK crankHandleKey LOCK    CH4     30 1 MEHRAWAL
+C1TBH scorta    *       *       30 1
+1TBH track     TBH     1T      30 1 MEHRAWAL
+203ATBH track     TBH     203AT     30 1 MEHRAWAL
+UMTBH track     TBH     UMT     30 1 MEHRAWAL
+299ATBH track     TBH     299AT     30 1 MEHRAWAL
+17TBH track     TBH     17T     30 1 MEHRAWAL
+19TBH track     TBH     19T     30 1 MEHRAWAL
+297BTBH track     TBH     297BT     30 1 MEHRAWAL
+ULTBH track     TBH     ULT     30 1 MEHRAWAL
+204BTBH track     TBH     204BT     30 1 MEHRAWAL
+297ATBH track     TBH     297AT     30 1 MEHRAWAL
+204ATBH track     TBH     204AT     30 1 MEHRAWAL
+C1TUBH1 scorta    *       *       30 1
+C1TUBH2 scorta    *       *       30 1
+1TUBH1 track     TUBH1   1T         30 1 MEHRAWAL
+1TUBH2 track     TUBH2   1T         30 1 MEHRAWAL
+203ATUBH1 track     TUBH1   203AT      30 1 MEHRAWAL
+203ATUBH2 track     TUBH2   203AT      30 1 MEHRAWAL
+UMTUBH1 track     TUBH1   UMT        30 1 MEHRAWAL
+UMTUBH2 track     TUBH2   UMT        30 1 MEHRAWAL
+299ATUBH1 track     TUBH1   299AT      30 1 MEHRAWAL
+299ATUBH2 track     TUBH2   299AT      30 1 MEHRAWAL
+17TUBH1 track     TUBH1   17T        30 1 MEHRAWAL
+17TUBH2 track     TUBH2   17T        30 1 MEHRAWAL
+19TUBH1 track     TUBH1   19T        30 1 MEHRAWAL
+19TUBH2 track     TUBH2   19T        30 1 MEHRAWAL
+297BTUBH1 track     TUBH1   297BT      30 1 MEHRAWAL
+297BTUBH2 track     TUBH2   297BT      30 1 MEHRAWAL
+ULTUBH1 track     TUBH1   ULT        30 1 MEHRAWAL
+ULTUBH2 track     TUBH2   ULT        30 1 MEHRAWAL
+204BTUBH1 track     TUBH1   204BT      30 1 MEHRAWAL
+204BTUBH2 track     TUBH2   204BT      30 1 MEHRAWAL
+206BH swpointBlock BH      206     30 1 MEHRAWAL
+206EWN1 swpoint   EWN1    206      0 1 swpoint   EWN2    206      0 0 swpoint   EWR1    206      0 0 swpoint
+206EWN2 swpoint   EWN2    206      0 1 swpoint   EWN1    206      0 0 swpoint   EWR1    206      0 0 swpoint
+206EWR1 swpoint   EWR1    206      0 1 swpoint   EWN1    206      0 0 swpoint   EWN2    206      0 0 swpoint
+297ATUBH1 track     TUBH1   297AT      30 1 MEHRAWAL
+297ATUBH2 track     TUBH2   297AT      30 1 MEHRAWAL
+206EWR2 swpoint   EWR2    206      0 1 swpoint   EWN1    206      0 0 swpoint   EWN2    206      0 0 swpoint
+206UBH1 swpointBlock UBH1    206     30 1 MEHRAWAL
+206UBH2 swpointBlock UBH2    206     30 1 MEHRAWAL
+206WC swpoint   WC      206      0 1 swpoint   WR      206      0 0 swpoint   WN      206      0 0 swpoint
+206WN swpoint   WN      206      0 1 swpoint   WR      206      0 0 swpoint   WC      206      0 0 MEHRAWA
+206WR swpoint   WR      206      0 1 swpoint   WN      206      0 0 swpoint   WC      206      0 0 MEHRAWA
+204ATUBH1 track     TUBH1   204AT      30 1 MEHRAWAL
+204ATUBH2 track     TUBH2   204AT      30 1 MEHRAWAL
+3BAJK route     JK      RT_3_11/111 30 1 route     BJK2    RT_3_11/111 30 1 MEHRAWAL
+3UAJK route     JK      RT_3_17/117 30 1 route     BJK2    RT_3_17/117 30 1 MEHRAWAL
+11B1XJK route     JK      RT_11_13 30 1 route     BJK2    RT_11_13 30 1 MEHRAWAL
+13B1ZJK route     JK      RT_13_M551 30 1 route     BJK2    RT_13_M551 30 1 MEHRAWAL
+22BAJK route     JK      RT_22_10/110 30 1 route     BJK2    RT_22_10/110 30 1 MEHRAWAL
+22DAJK route     JK      RT_22_4/104 30 1 route     BJK2    RT_22_4/104 30 1 MEHRAWAL
+10BXJK route     JK      RT_10_8 30 1 route     BJK2    RT_10_8 30 1 MEHRAWAL
+8BZJK route     JK      RT_8_M554 30 1 route     BJK2    RT_8_M554 30 1 MEHRAWAL
+22DB.202N.JK route     JK      RT_22_6/106_202N 30 1 route     BJK2    RT_22_6/106_202N 30 1 MEHRAWAL
+22DB.202R.JK route     JK      RT_22_6/106_202R 30 1 route     BJK2    RT_22_6/106_202R 30 1 MEHRAWAL
+C3BAJK route     cJK     RT_C3_11/111 30 1 MEHRAWAL
+C3UAJK route     cJK     RT_C3_17/117 30 1 MEHRAWAL
+C22BAJK route     cJK     RT_C22_10/110 30 1 MEHRAWAL
+C22DAJK route     cJK     RT_C22_4/104 30 1 MEHRAWAL
+C22DBJK route     cJK     RT_C22_6/106 30 1 MEHRAWAL
+103BAJK route     sJK     RT_103_11/111 30 1 MEHRAWAL
+103UAJK route     sJK     RT_103_17/117 30 1 MEHRAWAL
+103DAJK route     sJK     RT_103_119 30 1 MEHRAWAL
+103DBJK route     sJK     RT_103_121 30 1 MEHRAWAL
+103DWJK route     sJK     RT_103_118 30 1 MEHRAWAL
+111B1XJK route     sJK     RT_111_13 30 1 MEHRAWAL
+110BXJK route     sJK     RT_110_8 30 1 MEHRAWAL
+3UB.297N.JK route     JK      RT_3_15/115_297N 30 1 route     BJK2    RT_3_15/115_297N 30 1 MEHRAWAL
+3UB.297R.JK route     JK      RT_3_15/115_297R 30 1 route     BJK2    RT_3_15/115_297R 30 1 MEHRAWAL
+22UBJK route     JK      RT_22_14/114 30 1 route     BJK2    RT_22_14/114 30 1 MEHRAWAL
+C22UBJK route     cJK     RT_C22_14/114 30 1 MEHRAWAL
+3.C3EUUYN signalRoute EUUYN   3/C3    30 1 MEHRAWAL
+103EUUYN signalRoute EUUYN   103  30 1 MEHRAWAL
+10.110EUUYN signalRoute EUUYN   10/110  30 1 MEHRAWAL
+11.111EUUYN signalRoute EUUYN   11/111  30 1 MEHRAWAL
+C3UBJK route     cJK     RT_C3_15/115 30 1 MEHRAWAL
+22.C22EUUYN signalRoute EUUYN   22/C22  30 1 MEHRAWAL
+3.C3EUYN1 signalRoute EUYN1   3/C3    30 1 MEHRAWAL
+3.C3EUYN2 signalRoute EUYN2   3/C3     30 1 MEHRAWAL
+10.110EUYN1 signalRoute EUYN1   10/110    30 1 MEHRAWAL
+10.110EUYN2 signalRoute EUYN2   10/110     30 1 MEHRAWAL
+11.111EUYN1 signalRoute EUYN1   11/111    30 1 MEHRAWAL
+11.111EUYN2 signalRoute EUYN2   11/111     30 1 MEHRAWAL
+103EUYN1 signalRoute EUYN1   103    30 1 MEHRAWAL
+103EUYN2 signalRoute EUYN2   103     30 1 MEHRAWAL
+103UBJK route     sJK     RT_103_15/115 30 1 MEHRAWAL
+116DYJK route     sJK     RT_116_6/106 30 1 MEHRAWAL
+22.C22EUYN1 signalRoute EUYN1   22/C22    30 1 MEHRAWAL
+22.C22EUYN2 signalRoute EUYN2   22/C22     30 1 MEHRAWAL
+3.C3EGRN signalRoute EGRN    3/C3    30 1 MEHRAWAL
+8EGRN signalRoute EGRN    8     30 1 MEHRAWAL
+13EGRN signalRoute EGRN    13     30 1 MEHRAWAL
+10.110EGRN signalRoute EGRN    10/110  30 1 MEHRAWAL
+11.111EGRN signalRoute EGRN    11/111  30 1 MEHRAWAL
+103EGRN signalRoute EGRN    103     30 1 MEHRAWAL
+118DYJK route     sJK     RT_118_6/106 30 1 MEHRAWAL
+22.C22EGRN signalRoute EGRN    22/C22      30 1 MEHRAWAL
+OV10EYN1 overlap   EYN1    OV10    30 1 MEHRAWAL
+OV10EYN2 overlap   EYN2    OV10    30 1 MEHRAWAL
+OV11EYN1 overlap   EYN1    OV11    30 1 MEHRAWAL
+OV11EYN2 overlap   EYN2    OV11    30 1 MEHRAWAL
+116BH signalRoute BH      116    30 1 MEHRAWAL
+116EGRN signalRoute EGRN    116     30 1 MEHRAWAL
+116EUUYN signalRoute EUUYN   116  30 1 MEHRAWAL
+116EUYN1 signalRoute EUYN1   116    30 1 MEHRAWAL
+116EUYN2 signalRoute EUYN2   116     30 1 MEHRAWAL
+116UBH1 signalRoute UBH1    116     30 1 MEHRAWAL
+116UBH2 signalRoute UBH2    116     30 1 MEHRAWAL
+118BH signalRoute BH      118    30 1 MEHRAWAL
+118EGRN signalRoute EGRN    118     30 1 MEHRAWAL
+118EUUYN signalRoute EUUYN   118  30 1 MEHRAWAL
+118EUYN1 signalRoute EUYN1   118    30 1 MEHRAWAL
+118EUYN2 signalRoute EUYN2   118     30 1 MEHRAWAL
+118UBH1 signalRoute UBH1    118     30 1 MEHRAWAL
+118UBH2 signalRoute UBH2    118     30 1 MEHRAWAL
+OV14EYN1 overlap   EYN1    OV14    30 1 MEHRAWAL
+OV14EYN2 overlap   EYN2    OV14   30 1 MEHRAWAL
+OV15EYN1 overlap   EYN1    OV15    30 1 MEHRAWAL
+OV15EYN2 overlap   EYN2    OV15   30 1 MEHRAWAL
+OV17EYN1 overlap   EYN1    OV17    30 1 MEHRAWAL
+OV17EYN2 overlap   EYN2    OV17    30 1 MEHRAWAL
+OV4EYN1 overlap   EYN1    OV4     30 1 MEHRAWAL
+OV4EYN2 overlap   EYN2    OV4     30 1 MEHRAWAL
+OV6EYN1 overlap   EYN1    OV6     30 1 MEHRAWAL
+OV6EYN2 overlap   EYN2    OV6     30 1 MEHRAWAL
+298BTBH track     TBH     298BT     30 1 MEHRAWAL
+298BTUBH1 track     TUBH1   298BT      30 1 MEHRAWAL
+298BTUBH2 track     TUBH2   298BT      30 1 MEHRAWAL
+11ATBH track     TBH     11AT     30 1 MEHRAWAL
+11ATUBH1 track     TUBH1   11AT        30 1 MEHRAWAL
+11ATUBH2 track     TUBH2   11AT        30 1 MEHRAWAL
+LX113ELOCK levelCrossingKey LOCK    LX113    30 1 MEHRAWAL
+LX113EREL1 levelCrossingKey EREL1   LX113    30 1 MEHRAWAL
+LX113EREL2 levelCrossingKey EREL2   LX113    30 1 MEHRAWAL
+201AT_4T_EUYN1 dot       EUYN1   201AT_MT    30 1 MEHRAWAL
+201AT_4T_EUYN2 dot       EUYN2   201AT_MT    30 1 MEHRAWAL
+202BT_202AT_EUYN1 dot       EUYN1   202BT_ST    30 1 MEHRAWAL
+202BT_202AT_EUYN2 dot       EUYN2   202BT_ST    30 1 MEHRAWAL
+203AT_203BT_201BT_EUYN1 dot       EUYN1   203AT_TER    30 1 MEHRAWAL
+203AT_203BT_201BT_EUYN2 dot       EUYN2   203AT_TER    30 1 MEHRAWAL
+206T_EUYN1 dot       EUYN1   206T    30 1 dot       EUYN1   206T_BIS     30 1 MEHRAWAL
+206T_EUYN2 dot       EUYN2   206T    30 1 dot       EUYN2   206T_BIS     30 1 MEHRAWAL
+293T_295T_EUYN1 dot       EUYN1   293T    30 1 dot       EUYN1   293T_BIS     30 1 MEHRAWAL
+293T_295T_EUYN2 dot       EUYN2   293T    30 1 dot       EUYN2   293T_BIS     30 1 MEHRAWAL
+297BT_17AT_EUYN1 dot       EUYN1   297BT_S1    30 1 MEHRAWAL
+297BT_17AT_EUYN2 dot       EUYN2   297BT_S1    30 1 MEHRAWAL
+297BT_297AT_293T_EUYN1 dot       EUYN1   297BT_S3    30 1 MEHRAWAL
+297BT_297AT_293T_EUYN2 dot       EUYN2   297BT_S3    30 1 MEHRAWAL
+297BT_297AT_EUYN1 dot       EUYN1   297BT    30 1 dot       EUYN1   297BT_BIS     30 1 MEHRAWAL
+3.C3BH signalRoute BH      3/C3    30 1 MEHRAWAL
+8BH signalRoute BH      8       30 1 MEHRAWAL
+13BH signalRoute BH      13        30 1 MEHRAWAL
+10.110BH signalRoute BH      10/110    30 1 MEHRAWAL
+11.111BH signalRoute BH      11/111    30 1 MEHRAWAL
+103BH signalRoute BH      103    30 1 MEHRAWAL
+22.C22BH signalRoute BH      22/C22   30 1 MEHRAWAL
+297BT_297AT_EUYN2 dot       EUYN2   297BT    30 1 dot       EUYN2   297BT_BIS     30 1 MEHRAWAL
+3.C3UBH1 signalRoute UBH1    3/C3     30 1 MEHRAWAL
+3.C3UBH2 signalRoute UBH2    3/C3     30 1 MEHRAWAL
+8UBH1 signalRoute UBH1    8     30 1 MEHRAWAL
+8UBH2 signalRoute UBH2    8     30 1 MEHRAWAL
+13UBH1 signalRoute UBH1    13     30 1 MEHRAWAL
+13UBH2 signalRoute UBH2    13     30 1 MEHRAWAL
+10.110UBH1 signalRoute UBH1    10/110     30 1 MEHRAWAL
+10.110UBH2 signalRoute UBH2    10/110     30 1 MEHRAWAL
+11.111UBH1 signalRoute UBH1    11/111     30 1 MEHRAWAL
+11.111UBH2 signalRoute UBH2    11/111     30 1 MEHRAWAL
+103UBH1 signalRoute UBH1    103     30 1 MEHRAWAL
+103UBH2 signalRoute UBH2    103     30 1 MEHRAWAL
+201AT_201BT_10T_EUYN1 dot       EUYN1   201AT_BIS    30 1 MEHRAWAL
+201AT_201BT_10T_EUYN2 dot       EUYN2   201AT_BIS    30 1 MEHRAWAL
+22.C22UBH1 signalRoute UBH1    22/C22     30 1 MEHRAWAL
+22.C22UBH2 signalRoute UBH2    22/C22     30 1 MEHRAWAL
+C3TBH scorta    *       *       30 1
+10TBH track     TBH     10T     30 1 MEHRAWAL
+201BTBH track     TBH     201BT     30 1 MEHRAWAL
+203BTBH track     TBH     203BT     30 1 MEHRAWAL
+BTBH track     TBH     BT      30 1 MEHRAWAL
+299BTBH track     TBH     299BT     30 1 MEHRAWAL
+11TBH track     TBH     11T     30 1 MEHRAWAL
+13TBH track     TBH     13T     30 1 MEHRAWAL
+C22TBH scorta    *       *       30 1
+C3TUBH1 scorta    *       *       30 1
+C3TUBH2 scorta    *       *       30 1
+10TUBH1 track     TUBH1   10T        30 1 MEHRAWAL
+10TUBH2 track     TUBH2   10T        30 1 MEHRAWAL
+201BTUBH1 track     TUBH1   201BT      30 1 MEHRAWAL
+201BTUBH2 track     TUBH2   201BT      30 1 MEHRAWAL
+203BTUBH1 track     TUBH1   203BT      30 1 MEHRAWAL
+203BTUBH2 track     TUBH2   203BT      30 1 MEHRAWAL
+BTUBH1 track     TUBH1   BT         30 1 MEHRAWAL
+BTUBH2 track     TUBH2   BT         30 1 MEHRAWAL
+299BTUBH1 track     TUBH1   299BT      30 1 MEHRAWAL
+299BTUBH2 track     TUBH2   299BT      30 1 MEHRAWAL
+11TUBH1 track     TUBH1   11T        30 1 MEHRAWAL
+11TUBH2 track     TUBH2   11T        30 1 MEHRAWAL
+13TUBH1 track     TUBH1   13T   30 1 MEHRAWAL
+13TUBH2 track     TUBH2   13T   30 1 MEHRAWAL
+C22TUBH1 scorta    *       *       30 1
+C22TUBH2 scorta    *       *       30 1
+3AMJK autoMode  AMJK    3/C3       30 1 MEHRAWAL
+3AMEGRN autoMode  AMEGRN  3/C3     30 1 MEHRAWAL
+8AMJK autoMode  AMJK    8      30 1 MEHRAWAL
+8AMEGRN autoMode  AMEGRN  8      30 1 MEHRAWAL
+10AMJK autoMode  AMJK    10/110   30 1 MEHRAWAL
+10AMEGRN autoMode  AMEGRN  10/110   30 1 MEHRAWAL
+11AMJK autoMode  AMJK    11/111       30 1 MEHRAWAL
+11AMEGRN autoMode  AMEGRN  11/111       30 1 MEHRAWAL
+13AMJK autoMode  AMJK    13       30 1 MEHRAWAL
+13AMEGRN autoMode  AMEGRN  13       30 1 MEHRAWAL
+22AMJK autoMode  AMJK    22/C22      30 1 MEHRAWAL
+22AMEGRN autoMode  AMEGRN  22/C22   30 1 MEHRAWAL
+201AT_201BT_EUYN1 dot       EUYN1   201AT_ST    30 1 MEHRAWAL
+201AT_201BT_EUYN2 dot       EUYN2   201AT_ST    30 1 MEHRAWAL
+203AT_203BT_EUYN1 dot       EUYN1   203AT_BIS    30 1 MEHRAWAL
+203AT_203BT_EUYN2 dot       EUYN2   203AT_BIS    30 1 MEHRAWAL
+201BT_10T_EUYN1 dot       EUYN1   201BT_BIS    30 1 MEHRAWAL
+201BT_10T_EUYN2 dot       EUYN2   201BT_BIS    30 1 MEHRAWAL
+204BT_204AT_EUYN1 dot       EUYN1   204BT    30 1 MEHRAWAL
+204BT_204AT_EUYN2 dot       EUYN2   204BT    30 1 MEHRAWAL
+299AT_299BT_11T_EUYN1 dot       EUYN1   299AT_BIS    30 1 MEHRAWAL
+299AT_299BT_11T_EUYN2 dot       EUYN2   299AT_BIS    30 1 MEHRAWAL
+299AT_17T_EUYN1 dot       EUYN1   299AT_MT2    30 1 MEHRAWAL
+299AT_17T_EUYN2 dot       EUYN2   299AT_MT2    30 1 MEHRAWAL
+299AT_299BT_EUYN1 dot       EUYN1   299AT_ST    30 1 MEHRAWAL
+299AT_299BT_EUYN2 dot       EUYN2   299AT_ST    30 1 MEHRAWAL
+3TBH track     TBH     3T     30 1 MEHRAWAL
+3TUBH1 track     TUBH1   3T        30 1 MEHRAWAL
+3TUBH2 track     TUBH2   3T        30 1 MEHRAWAL
+3XTARP axleCounter XTRES   3T    30 1 MEHRAWAL
+3XTBRP lineAxleCounterB XTBRP   3XTB    30 1 ALJN_MWUE_BI
+101DAJK route     sJK     RT_101_119 30 1 MEHRAWAL
+101DBJK route     sJK     RT_101_121 30 1 MEHRAWAL
+101DWJK route     sJK     RT_101_HAS 30 1 MEHRAWAL
+105UBJK route     sJK     RT_105_15/115 30 1 MEHRAWAL
+112BXJK route     sJK     RT_112_8 30 1 MEHRAWAL
+113B1XJK route     sJK     RT_113_13 30 1 MEHRAWAL
+113SNJK route     sJK     RT_113_SN 30 1 MEHRAWAL
+113UXJK route     sJK     RT_113_19 30 1 MEHRAWAL
+114BXJK route     sJK     RT_114_8 30 1 MEHRAWAL
+114UYJK route     sJK     RT_114_GS 30 1 MEHRAWAL
+119B1XJK route     sJK     RT_119_13 30 1 MEHRAWAL
+121B1XJK route     sJK     RT_121_13 30 1 MEHRAWAL
+123B1XJK route     sJK     RT_123_13 30 1 MEHRAWAL
+123SNJK route     sJK     RT_123_SN 30 1 MEHRAWAL
+123UXJK route     sJK     RT_123_19 30 1 MEHRAWAL
+14BXJK route     JK      RT_14_8 30 1 route     BJK2    RT_14_8 30 1 MEHRAWAL
+194RSJK route     sJK     RT_194_RHS 30 1 MEHRAWAL
+194UBJK route     sJK     RT_194_14/114 30 1 MEHRAWAL
+194UWJK route     sJK     RT_194_HASUW 30 1 MEHRAWAL
+196RSJK route     sJK     RT_196_RHS 30 1 MEHRAWAL
+196UAJK route     sJK     RT_196_112 30 1 MEHRAWAL
+196UBJK route     sJK     RT_196_14/114 30 1 MEHRAWAL
+196UWJK route     sJK     RT_196_HASUW 30 1 MEHRAWAL
+198BAJK route     sJK     RT_198_10/110 30 1 MEHRAWAL
+198DAJK route     sJK     RT_198_4/104 30 1 MEHRAWAL
+198DBJK route     sJK     RT_198_6/106 30 1 MEHRAWAL
+198RSJK route     sJK     RT_198_RHS 30 1 MEHRAWAL
+198UAJK route     sJK     RT_198_112 30 1 MEHRAWAL
+198UBJK route     sJK     RT_198_14/114 30 1 MEHRAWAL
+198UWJK route     sJK     RT_198_HASUW 30 1 MEHRAWAL
+23B1XJK route     JK      RT_23_13 30 1 route     BJK2    RT_23_13 30 1 MEHRAWAL
+23UXJK route     JK      RT_23_19 30 1 route     BJK2    RT_23_19 30 1 MEHRAWAL
+101EGRN signalRoute EGRN    101     30 1 MEHRAWAL
+105EGRN signalRoute EGRN    105     30 1 MEHRAWAL
+112EGRN signalRoute EGRN    112     30 1 MEHRAWAL
+113EGRN signalRoute EGRN    113     30 1 MEHRAWAL
+119EGRN signalRoute EGRN    119     30 1 MEHRAWAL
+121EGRN signalRoute EGRN    121     30 1 MEHRAWAL
+14.114EGRN signalRoute EGRN    14/114     30 1 MEHRAWAL
+194EGRN signalRoute EGRN    194     30 1 MEHRAWAL
+196EGRN signalRoute EGRN    196     30 1 MEHRAWAL
+198EGRN signalRoute EGRN    198     30 1 MEHRAWAL
+23.123EGRN signalRoute EGRN    23/123     30 1 MEHRAWAL
+101EUUYN signalRoute EUUYN   101     30 1 MEHRAWAL
+105EUUYN signalRoute EUUYN   105     30 1 MEHRAWAL
+112EUUYN signalRoute EUUYN   112     30 1 MEHRAWAL
+113EUUYN signalRoute EUUYN   113     30 1 MEHRAWAL
+119EUUYN signalRoute EUUYN   119     30 1 MEHRAWAL
+121EUUYN signalRoute EUUYN   121     30 1 MEHRAWAL
+194EUUYN signalRoute EUUYN   194     30 1 MEHRAWAL
+196EUUYN signalRoute EUUYN   196     30 1 MEHRAWAL
+198EUUYN signalRoute EUUYN   198     30 1 MEHRAWAL
+23.123EUUYN signalRoute EUUYN   23/123     30 1 MEHRAWAL
+14.114EUUYN signalRoute EUUYN   14/114   30 1 MEHRAWAL
+101EUYN1 signalRoute EUYN1   101   30 1 MEHRAWAL
+101EUYN2 signalRoute EUYN2   101     30 1 MEHRAWAL
+105EUYN1 signalRoute EUYN1   105   30 1 MEHRAWAL
+105EUYN2 signalRoute EUYN2   105     30 1 MEHRAWAL
+112EUYN1 signalRoute EUYN1   112   30 1 MEHRAWAL
+112EUYN2 signalRoute EUYN2   112     30 1 MEHRAWAL
+113EUYN1 signalRoute EUYN1   113   30 1 MEHRAWAL
+113EUYN2 signalRoute EUYN2   113     30 1 MEHRAWAL
+119EUYN1 signalRoute EUYN1   119   30 1 MEHRAWAL
+119EUYN2 signalRoute EUYN2   119     30 1 MEHRAWAL
+121EUYN1 signalRoute EUYN1   121   30 1 MEHRAWAL
+121EUYN2 signalRoute EUYN2   121     30 1 MEHRAWAL
+14.114EUYN1 signalRoute EUYN1   14/114    30 1 MEHRAWAL
+14.114EUYN2 signalRoute EUYN2   14/114     30 1 MEHRAWAL
+194EUYN1 signalRoute EUYN1   194   30 1 MEHRAWAL
+194EUYN2 signalRoute EUYN2   194     30 1 MEHRAWAL
+196EUYN1 signalRoute EUYN1   196   30 1 MEHRAWAL
+196EUYN2 signalRoute EUYN2   196     30 1 MEHRAWAL
+198EUYN1 signalRoute EUYN1   198   30 1 MEHRAWAL
+198EUYN2 signalRoute EUYN2   198     30 1 MEHRAWAL
+23.123EUYN1 signalRoute EUYN1   23/123   30 1 MEHRAWAL
+23.123EUYN2 signalRoute EUYN2   23/123     30 1 MEHRAWAL
+101BH signalRoute BH      101    30 1 MEHRAWAL
+105BH signalRoute BH      105    30 1 MEHRAWAL
+112BH signalRoute BH      112    30 1 MEHRAWAL
+113BH signalRoute BH      113    30 1 MEHRAWAL
+119BH signalRoute BH      119    30 1 MEHRAWAL
+121BH signalRoute BH      121    30 1 MEHRAWAL
+14.114BH signalRoute BH      14/114    30 1 MEHRAWAL
+194BH signalRoute BH      194    30 1 MEHRAWAL
+196BH signalRoute BH      196    30 1 MEHRAWAL
+198BH signalRoute BH      198    30 1 MEHRAWAL
+23.123BH signalRoute BH      23/123   30 1 MEHRAWAL
+101UBH1 signalRoute UBH1    101     30 1 MEHRAWAL
+101UBH2 signalRoute UBH2    101     30 1 MEHRAWAL
+105UBH1 signalRoute UBH1    105     30 1 MEHRAWAL
+105UBH2 signalRoute UBH2    105     30 1 MEHRAWAL
+112UBH1 signalRoute UBH1    112     30 1 MEHRAWAL
+112UBH2 signalRoute UBH2    112     30 1 MEHRAWAL
+113UBH1 signalRoute UBH1    113     30 1 MEHRAWAL
+113UBH2 signalRoute UBH2    113     30 1 MEHRAWAL
+119UBH1 signalRoute UBH1    119     30 1 MEHRAWAL
+119UBH2 signalRoute UBH2    119     30 1 MEHRAWAL
+121UBH1 signalRoute UBH1    121     30 1 MEHRAWAL
+121UBH2 signalRoute UBH2    121     30 1 MEHRAWAL
+14.114UBH1 signalRoute UBH1    14/114     30 1 MEHRAWAL
+14.114UBH2 signalRoute UBH2    14/114     30 1 MEHRAWAL
+194UBH1 signalRoute UBH1    194     30 1 MEHRAWAL
+194UBH2 signalRoute UBH2    194     30 1 MEHRAWAL
+196UBH1 signalRoute UBH1    196     30 1 MEHRAWAL
+196UBH2 signalRoute UBH2    196     30 1 MEHRAWAL
+198UBH1 signalRoute UBH1    198     30 1 MEHRAWAL
+198UBH2 signalRoute UBH2    198     30 1 MEHRAWAL
+23.123UBH1 signalRoute UBH1    23/123     30 1 MEHRAWAL
+23.123UBH2 signalRoute UBH2    23/123     30 1 MEHRAWAL
+293BH swpointBlock BH      293     30 1 MEHRAWAL
+294BH swpointBlock BH      294     30 1 MEHRAWAL
+295BH swpointBlock BH      295     30 1 MEHRAWAL
+296BH swpointBlock BH      296     30 1 MEHRAWAL
+297BH swpointBlock BH      297     30 1 MEHRAWAL
+298BH swpointBlock BH      298     30 1 MEHRAWAL
+299BH swpointBlock BH      299     30 1 MEHRAWAL
+293UBH1 swpointBlock UBH1    293     30 1 MEHRAWAL
+293UBH2 swpointBlock UBH2    293     30 1 MEHRAWAL
+294UBH1 swpointBlock UBH1    294     30 1 MEHRAWAL
+294UBH2 swpointBlock UBH2    294     30 1 MEHRAWAL
+295UBH1 swpointBlock UBH1    295    30 1 MEHRAWAL
+295UBH2 swpointBlock UBH2    295     30 1 MEHRAWAL
+296UBH1 swpointBlock UBH1    296    30 1 MEHRAWAL
+296UBH2 swpointBlock UBH2    296     30 1 MEHRAWAL
+297UBH1 swpointBlock UBH1    297    30 1 MEHRAWAL
+297UBH2 swpointBlock UBH2    297     30 1 MEHRAWAL
+298UBH1 swpointBlock UBH1    298    30 1 MEHRAWAL
+298UBH2 swpointBlock UBH2    298     30 1 MEHRAWAL
+299UBH1 swpointBlock UBH1    299    30 1 MEHRAWAL
+299UBH2 swpointBlock UBH2    299     30 1 MEHRAWAL
+293EWN1 swpoint   EWN1    293      0 1 swpoint   EWN2    293      0 0 swpoint   EWR1    293      0 0 swpoint   EWR2    293      0 0 MEHRAWAL
+293EWN2 swpoint   EWN2    293      0 1 swpoint   EWN1    293      0 0 swpoint   EWR1    293      0 0 swpoint   EWR2    293      0 0 swpoint   WC      293      0 0 MEHRAWAL
+293EWR1 swpoint   EWR1    293      0 1 swpoint   EWN1    293      0 0 swpoint   EWN2    293      0 0 swpoint   EWR2    293      0 0 MEHRAWAL
+293EWR2 swpoint   EWR2    293      0 1 swpoint   EWN1    293      0 0 swpoint   EWN2    293      0 0 swpoint   EWR1    293      0 0 swpoint   WC      293      0 0 MEHRAWAL
+294EWN1 swpoint   EWN1    294      0 1 swpoint   EWN2    294      0 0 swpoint   EWR1    294      0 0 swpoint   EWR2    294      0 0 MEHRAWAL
+294EWN2 swpoint   EWN2    294      0 1 swpoint   EWN1    294      0 0 swpoint   EWR1    294      0 0 swpoint   EWR2    294      0 0 swpoint   WC      294      0 0 MEHRAWAL
+294EWR1 swpoint   EWR1    294      0 1 swpoint   EWN1    294      0 0 swpoint   EWN2    294      0 0 swpoint   EWR2    294      0 0 MEHRAWAL
+294EWR2 swpoint   EWR2    294      0 1 swpoint   EWN1    294      0 0 swpoint   EWN2    294      0 0 swpoint   EWR1    294      0 0 swpoint   WC      294      0 0 MEHRAWAL
+295EWN1 swpoint   EWN1    295      0 1 swpoint   EWN2    295      0 0 swpoint   EWR1    295      0 0 swpoint   EWR2    295      0 0 MEHRAWAL
+295EWN2 swpoint   EWN2    295      0 1 swpoint   EWN1    295      0 0 swpoint   EWR1    295      0 0 swpoint   EWR2    295      0 0 swpoint   WC      295      0 0 MEHRAWAL
+295EWR1 swpoint   EWR1    295      0 1 swpoint   EWN1    295      0 0 swpoint   EWN2    295      0 0 swpoint   EWR2    295      0 0 MEHRAWAL
+295EWR2 swpoint   EWR2    295      0 1 swpoint   EWN1    295      0 0 swpoint   EWN2    295      0 0 swpoint   EWR1    295      0 0 swpoint   WC      295      0 0 MEHRAWAL
+296EWN1 swpoint   EWN1    296      0 1 swpoint   EWN2    296      0 0 swpoint   EWR1    296      0 0 swpoint   EWR2    296      0 0 MEHRAWAL
+296EWN2 swpoint   EWN2    296      0 1 swpoint   EWN1    296      0 0 swpoint   EWR1    296      0 0 swpoint   EWR2    296      0 0 swpoint   WC      296      0 0 MEHRAWAL
+296EWR1 swpoint   EWR1    296      0 1 swpoint   EWN1    296      0 0 swpoint   EWN2    296      0 0 swpoint   EWR2    296      0 0 MEHRAWAL
+296EWR2 swpoint   EWR2    296      0 1 swpoint   EWN1    296      0 0 swpoint   EWN2    296      0 0 swpoint   EWR1    296      0 0 swpoint   WC      296      0 0 MEHRAWAL
+297EWN1 swpoint   EWN1    297      0 1 swpoint   EWN2    297      0 0 swpoint   EWR1    297      0 0 swpoint   EWR2    297      0 0 MEHRAWAL
+297EWN2 swpoint   EWN2    297      0 1 swpoint   EWN1    297      0 0 swpoint   EWR1    297      0 0 swpoint   EWR2    297      0 0 swpoint   WC      297      0 0 MEHRAWAL
+297EWR1 swpoint   EWR1    297      0 1 swpoint   EWN1    297      0 0 swpoint   EWN2    297      0 0 swpoint   EWR2    297      0 0 MEHRAWAL
+297EWR2 swpoint   EWR2    297      0 1 swpoint   EWN1    297      0 0 swpoint   EWN2    297      0 0 swpoint   EWR1    297      0 0 swpoint   WC      297      0 0 MEHRAWAL
+298EWN1 swpoint   EWN1    298      0 1 swpoint   EWN2    298      0 0 swpoint   EWR1    298      0 0 swpoint   EWR2    298      0 0 MEHRAWAL
+298EWN2 swpoint   EWN2    298      0 1 swpoint   EWN1    298      0 0 swpoint   EWR1    298      0 0 swpoint   EWR2    298      0 0 swpoint   WC      298      0 0 MEHRAWAL
+298EWR1 swpoint   EWR1    298      0 1 swpoint   EWN1    298      0 0 swpoint   EWN2    298      0 0 swpoint   EWR2    298      0 0 MEHRAWAL
+298EWR2 swpoint   EWR2    298      0 1 swpoint   EWN1    298      0 0 swpoint   EWN2    298      0 0 swpoint   EWR1    298      0 0 swpoint   WC      298      0 0 MEHRAWAL
+299EWN1 swpoint   EWN1    299      0 1 swpoint   EWN2    299      0 0 swpoint   EWR1    299      0 0 swpoint   EWR2    299      0 0 MEHRAWAL
+299EWN2 swpoint   EWN2    299      0 1 swpoint   EWN1    299      0 0 swpoint   EWR1    299      0 0 swpoint   EWR2    299      0 0 swpoint   WC      299      0 0 MEHRAWAL
+299EWR1 swpoint   EWR1    299      0 1 swpoint   EWN1    299      0 0 swpoint   EWN2    299      0 0 swpoint   EWR2    299      0 0 MEHRAWAL
+299EWR2 swpoint   EWR2    299      0 1 swpoint   EWN1    299      0 0 swpoint   EWN2    299      0 0 swpoint   EWR1    299      0 0 swpoint   WC      299      0 0 MEHRAWAL
+293WC swpoint   WC      293      0 1 swpoint   WR      293      0 0 swpoint   WN      293      0 0 swpoint   EWN2    293      0 0 swpoint   EWR2    293      0 0 MEHRAWAL
+294WC swpoint   WC      294      0 1 swpoint   WR      294      0 0 swpoint   WN      294      0 0 swpoint   EWN2    294      0 0 swpoint   EWR2    294      0 0 MEHRAWAL
+295WC swpoint   WC      295      0 1 swpoint   WR      295      0 0 swpoint   WN      295      0 0 swpoint   EWN2    295      0 0 swpoint   EWR2    295      0 0 MEHRAWAL
+296WC swpoint   WC      296      0 1 swpoint   WR      296      0 0 swpoint   WN      296      0 0 swpoint   EWN2    296      0 0 swpoint   EWR2    296      0 0 MEHRAWAL
+297WC swpoint   WC      297      0 1 swpoint   WR      297      0 0 swpoint   WN      297      0 0 swpoint   EWN2    297      0 0 swpoint   EWR2    297      0 0 MEHRAWAL
+298WC swpoint   WC      298      0 1 swpoint   WR      298      0 0 swpoint   WN      298      0 0 swpoint   EWN2    298      0 0 swpoint   EWR2    298      0 0 MEHRAWAL
+299WC swpoint   WC      299      0 1 swpoint   WR      299      0 0 swpoint   WN      299      0 0 swpoint   EWN2    299      0 0 swpoint   EWR2    299      0 0 MEHRAWAL
+293WN swpoint   WN      293      0 1 swpoint   WR      293      0 0 swpoint   WC      293      0 0 MEHRAWAL
+294WN swpoint   WN      294      0 1 swpoint   WR      294      0 0 swpoint   WC      294      0 0 MEHRAWAL
+295WN swpoint   WN      295      0 1 swpoint   WR      295      0 0 swpoint   WC      295      0 0 MEHRAWAL
+296WN swpoint   WN      296      0 1 swpoint   WR      296      0 0 swpoint   WC      296      0 0 MEHRAWAL
+297WN swpoint   WN      297      0 1 swpoint   WR      297      0 0 swpoint   WC      297      0 0 MEHRAWAL
+298WN swpoint   WN      298      0 1 swpoint   WR      298      0 0 swpoint   WC      298      0 0 MEHRAWAL
+299WN swpoint   WN      299      0 1 swpoint   WR      299      0 0 swpoint   WC      299      0 0 MEHRAWAL
+293WR swpoint   WR      293      0 1 swpoint   WN      293      0 0 swpoint   WC      293      0 0 MEHRAWAL
+294WR swpoint   WR      294      0 1 swpoint   WN      294      0 0 swpoint   WC      294      0 0 MEHRAWAL
+295WR swpoint   WR      295      0 1 swpoint   WN      295      0 0 swpoint   WC      295      0 0 MEHRAWAL
+296WR swpoint   WR      296      0 1 swpoint   WN      296      0 0 swpoint   WC      296      0 0 MEHRAWAL
+297WR swpoint   WR      297      0 1 swpoint   WN      297      0 0 swpoint   WC      297      0 0 MEHRAWAL
+298WR swpoint   WR      298      0 1 swpoint   WN      298      0 0 swpoint   WC      298      0 0 MEHRAWAL
+299WR swpoint   WR      299      0 1 swpoint   WN      299      0 0 swpoint   WC      299      0 0 MEHRAWAL
+CH10LOCK crankHandleKey LOCK    CH10      30 1 MEHRAWAL
+CH10REL crankHandleKey REL     CH10      30 1 MEHRAWAL
+CH11LOCK crankHandleKey LOCK    CH11      30 1 MEHRAWAL
+CH11REL crankHandleKey REL     CH11      30 1 MEHRAWAL
+CH12LOCK crankHandleKey LOCK    CH12      30 1 MEHRAWAL
+CH12REL crankHandleKey REL     CH12      30 1 MEHRAWAL
+CH13LOCK crankHandleKey LOCK    CH13      30 1 MEHRAWAL
+CH13REL crankHandleKey REL     CH13      30 1 MEHRAWAL
+CH14LOCK crankHandleKey LOCK    CH14      30 1 MEHRAWAL
+CH14REL crankHandleKey REL     CH14      30 1 MEHRAWAL
+CH15LOCK crankHandleKey LOCK    CH15      30 1 MEHRAWAL
+CH15REL crankHandleKey REL     CH15      30 1 MEHRAWAL
+CH9LOCK crankHandleKey LOCK    CH9      30 1 MEHRAWAL
+CH9REL crankHandleKey REL     CH9      30 1 MEHRAWAL
+20XTRES1 axleCounter XTRES   20T    30 1 MEHRAWAL
+201ATBH track     TBH     201AT     30 1 MEHRAWAL
+202ATBH track     TBH     202AT     30 1 MEHRAWAL
+202BTBH track     TBH     202BT     30 1 MEHRAWAL
+206TBH track     TBH     206T     30 1 MEHRAWAL
+20TBH track     TBH     20T     30 1 MEHRAWAL
+296TBH track     TBH     296T     30 1 MEHRAWAL
+298ATBH track     TBH     298AT     30 1 MEHRAWAL
+4TBH track     TBH   4T     30 1 MEHRAWAL
+C20TBH scorta    *       *       30 1
+DLTBH track     TBH     DLT     30 1 MEHRAWAL
+DMTBH track     TBH     DMT     30 1 MEHRAWAL
+201ATUBH1 track     TUBH1   201AT      30 1 MEHRAWAL
+201ATUBH2 track     TUBH2   201AT      30 1 MEHRAWAL
+202ATUBH1 track     TUBH1   202AT      30 1 MEHRAWAL
+202ATUBH2 track     TUBH2   202AT      30 1 MEHRAWAL
+202BTUBH1 track     TUBH1   202BT      30 1 MEHRAWAL
+202BTUBH2 track     TUBH2   202BT      30 1 MEHRAWAL
+206TUBH1 track     TUBH1   206T      30 1 MEHRAWAL
+206TUBH2 track     TUBH2   206T      30 1 MEHRAWAL
+20TUBH1 track     TUBH1   20T      30 1 MEHRAWAL
+20TUBH2 track     TUBH2   20T      30 1 MEHRAWAL
+296TUBH1 track     TUBH1   296T      30 1 MEHRAWAL
+296TUBH2 track     TUBH2   296T      30 1 MEHRAWAL
+298ATUBH1 track     TUBH1   298AT      30 1 MEHRAWAL
+298ATUBH2 track     TUBH2   298AT     30 1 MEHRAWAL
+4TUBH1 track     TUBH1   4T     30 1 MEHRAWAL
+4TUBH2 track     TUBH2   4T     30 1 MEHRAWAL
+C20TUBH1 scorta    *       *       30 1
+C20TUBH2 scorta    *       *       30 1
+DLTUBH1 track     TUBH1   DLT      30 1 MEHRAWAL
+DLTUBH2 track     TUBH2   DLT     30 1 MEHRAWAL
+DMTUBH1 track     TUBH1   DMT      30 1 MEHRAWAL
+DMTUBH2 track     TUBH2   DMT   30 1 MEHRAWAL
+A503EGRN autoSignal EGRN    A503    30 1 ALJN_MWUE
+A503JK autoSignal JK      A503    30 1 ALJN_MWUE
+A501EGRN autoSignal EGRN    A501    30 1 ALJN_MWUE
+A501JK autoSignal JK      A501    30 1 ALJN_MWUE
+M551EGRN autoSignal EGRN    M551    30 1 ALJN_MWUE_BI
+M551JK autoSignal JK      M551    30 1 ALJN_MWUE_BI
+M553EGRN autoSignal EGRN    M553    30 1 ALJN_MWUE_BI
+M553JK autoSignal JK      M553    30 1 ALJN_MWUE_BI
+M554EGRN autoSignal EGRN    M554    30 1 ALJN_MWUE_BI
+M554JK autoSignal JK      M554    30 1 ALJN_MWUE_BI
+A506EGRN autoSignal EGRN    A506    30 1 MWUE_ALJN
+A506JK autoSignal JK      A506    30 1 MWUE_ALJN
+A501XTARP lineAxleCounter XTRES   501XTA    30 1 ALJN_MWUE
+A501XTBRP lineAxleCounterB XTBRP   501XTB    30 1 ALJN_MWUE
+A501AXTARP lineAxleCounter XTRES   501AXTA    30 1 ALJN_MWUE
+A501AXTBRP lineAxleCounterB XTBRP   501AXTB    30 1 ALJN_MWUE
+A503XTARP lineAxleCounter XTRES   503XTA    30 1 ALJN_MWUE
+A503XTBRP lineAxleCounterB XTBRP   503XTB    30 1 ALJN_MWUE
+A503AXTARP lineAxleCounter XTRES   503AXTA    30 1 ALJN_MWUE
+A503AXTBRP lineAxleCounterB XTBRP   503AXTB    30 1 ALJN_MWUE
+M551AXTARP lineAxleCounter XTRES   M551AXTA    30 1 ALJN_MWUE_BI
+M551AXTBRP lineAxleCounterB XTBRP  M551AXTB    30 1 ALJN_MWUE_BI
+M553XTARP lineAxleCounter XTRES   M553XTA    30 1 ALJN_MWUE_BI
+M553XTBRP lineAxleCounterB XTBRP  M553XTB    30 1 ALJN_MWUE_BI
+M553AXTARP lineAxleCounter XTRES   M553AXTA    30 1 ALJN_MWUE_BI
+M553AXTBRP lineAxleCounterB XTBRP  M553AXTB    30 1 ALJN_MWUE_BI
+2XTBRP lineAxleCounterB XTBRP   2XTB    30 1 MWUE_ALJN
+2XTRP axleCounter XTRES   2T    30 1 MEHRAWAL
+2AXTBRP lineAxleCounterB XTBRP   2AXTB    30 1 MWUE_ALJN
+2AXTRP lineAxleCounter XTRES   2AXT    30 1 MWUE_ALJN
+A506XTRP lineAxleCounter XTRES   506XT    30 1 MWUE_ALJN
+A506XTBRP lineAxleCounterB XTBRP   506XTB    30 1 MWUE_ALJN
+A506AXTRP lineAxleCounter XTRES   506AXT    30 1 MWUE_ALJN
+A506AXTBRP lineAxleCounterB XTBRP   506AXTB    30 1 MWUE_ALJN
+A501JK autoSignal JK      A501    30 1 MWUE_KLA
+M551JK autoSignal JK    M551    30 1 MWUE_KLA_BI
+M552JK autoSignal JK    M552    30 1 MWUE_KLA_BI
+M554JK autoSignal JK    M554    30 1 MWUE_KLA_BI
+A504JK autoSignal JK      A504    30 1 KLA_MWUE
+A502JK autoSignal JK      A502    30 1 KLA_MWUE
+A501EGRN autoSignal EGRN    A501    30 1 MWUE_KLA
+M551EGRN autoSignal EGRN    M551    30 1 MWUE_KLA_BI
+M552EGRN autoSignal EGRN    M552    30 1 MWUE_KLA_BI
+M554EGRN autoSignal EGRN    M554    30 1 MWUE_KLA_BI
+A504EGRN autoSignal EGRN    A504    30 1 KLA_MWUE
+A502EGRN autoSignal EGRN    A502    30 1 KLA_MWUE
+19XTRP axleCounter XTRES   19T    30 1 MEHRAWAL
+19AXTARP lineAxleCounter XTRES   19AXTA    30 1 MWUE_KLA
+A501XTARP lineAxleCounter XTRES   501XTA    30 1 MWUE_KLA
+A501AXTARP lineAxleCounter XTRES   501AXTA    30 1 MWUE_KLA
+13XTRP axleCounter XTRES   13T    30 1 MEHRAWAL
+13AXTARP lineAxleCounter XTRES   13AXTA    30 1 MWUE_KLA_BI
+M551XTARP lineAxleCounter XTRES   M551XTA    30 1 MWUE_KLA_BI
+M551AXTARP lineAxleCounter XTRES   M551AXTA    30 1 MWUE_KLA_BI
+A504AXTRP lineAxleCounter XTRES   504AXT    30 1 KLA_MWUE
+A502AXTRP lineAxleCounter XTRES   502AXT    30 1 KLA_MWUE
+A502XTRP lineAxleCounter XTRES   502XT    30 1 KLA_MWUE
+A504XTRP lineAxleCounter XTRES   504XT    30 1 KLA_MWUE
+19AXTBRP lineAxleCounterB XTBRP   19AXTB    30 1 MWUE_KLA
+A501XTBRP lineAxleCounterB XTBRP   501XTB    30 1 MWUE_KLA
+A501AXTBRP lineAxleCounterB XTBRP   501AXTB    30 1 MWUE_KLA
+13AXTBRP lineAxleCounterB XTBRP   13AXTB    30 1 MWUE_KLA_BI
+M551XTBRP lineAxleCounterB XTBRP   M551XTB    30 1 MWUE_KLA_BI
+M551AXTBRP lineAxleCounterB XTBRP   M551AXTB    30 1 MWUE_KLA_BI
+A504AXTBRP lineAxleCounterB XTBRP   504AXTB   30 1 KLA_MWUE
+A504XTBRP lineAxleCounterB XTBRP   504XTB   30 1 KLA_MWUE
+A502AXTBRP lineAxleCounterB XTBRP   502AXTB   30 1 KLA_MWUE
+A502XTBRP lineAxleCounterB XTBRP   502XTB    30 1 KLA_MWUE
